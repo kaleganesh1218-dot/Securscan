@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+scans/*.txt
+scans/*.xml
+
+reports/*.txt
+reports/*.html
+
+evidence/*.txt
+evidenc/
+findings.txt
+project_summary.txt
+report.py
+securscan_backup.py
